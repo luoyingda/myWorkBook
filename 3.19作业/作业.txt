@@ -1,0 +1,6 @@
+第一题：
+  ①、undefined  13
+  ②、报错：a is not defined
+  ③、报错
+第二题：
+  
